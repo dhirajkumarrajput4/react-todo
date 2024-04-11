@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> master
 import React from "react";
 import Header from "./components/Header";
 import TodoItem from "./components/TodoItem";
@@ -17,11 +13,6 @@ const App = () => {
       <TodoItem></TodoItem>
       <TodoItem></TodoItem>
       <TodoItem></TodoItem>
-<<<<<<< HEAD
-=======
-      <TodoItem></TodoItem>
-      <TodoItem></TodoItem>
->>>>>>> master
       <Button></Button>
     </div>
   );
