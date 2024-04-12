@@ -18,7 +18,6 @@ body{
     display: flex;
     justify-content: space-between;
     align-items: center;
-
 }
 
 .todo-button{
@@ -26,4 +25,10 @@ body{
     border: none;
     border-radius: 10px;
     padding: 10px 20px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.todo-text{
+    margin-left: 10px;
 }
