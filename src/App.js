@@ -10,7 +10,6 @@ const App = () => {
       <Header></Header>
       <TodoItem title="Eat"></TodoItem>
       <TodoItem title="Code"></TodoItem>
-      <TodoItem title="Coffee"></TodoItem>
       <TodoItem title="Sleep"></TodoItem>
       <TodoItem title="Repeat"></TodoItem>
       <Button></Button>
